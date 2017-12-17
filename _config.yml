@@ -9,8 +9,7 @@ name: Karthik Nimmagadda
 description: Associate Senior Software Engineer at Cerner
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars2.githubusercontent.com/u/8549710?s=400&u=f1c37078ccde297ead6ec19cb22a15c378a0cf80&v=4
-
+avatar: https://avatars1.githubusercontent.com/u/8549710?s=400&u=598fd88fa91736736871b8f91dceaf344d0244d3&v=4
 #
 # Flags below are optional
 #
@@ -21,12 +20,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/KarthikNimmagadda
+  github: KarthikNimmagadda
   instagram:
-  linkedin: https://www.linkedin.com/in/karthiknimmagadda1239/
+  linkedin: karthiknimmagadda1239
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: KarthikN1239
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
