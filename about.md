@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a software engineer working at Cerner Corporation. I live in Overland Park, Kansas. This website is primarily focused on sharing technical tips, tricks, and solutions for the issues that I have faced. Most of the information I share would be regarding Javascript, Java, Ruby and sometimes life in general. I believe to retain concepts/ ideas its always good to share. This is my attempt to learn and retain concepts as much as sharing it with others.
+I am a software engineer who likes to run :) . I live in Overland Park, Kansas. In this blog, I will share technical tips, tricks, and solutions for the common issues I faced. Most of the content here will be Javascript, Java, and Ruby. Here and there I will sprinkle few posts about life and philosophy. This blog is my attempt to learn and retain concepts as much as sharing it with others.
 
 ### More Information
 

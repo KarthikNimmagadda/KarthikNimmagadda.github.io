@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Software Engineer who likes to run :)!
+title: First Blog Post!
 ---
 
 In this blog, I will share technical tips, tricks, and solutions for the common issues I faced. Most of the content here will be Javascript, Java, and Ruby. Here and there I will sprinkle few posts about life and philosophy. This blog is my attempt to learn and retain concepts as much as sharing it with others.
