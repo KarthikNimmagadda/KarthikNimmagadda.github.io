@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Karthik Nimmagadda. I am a software engineer working at Cerner Corporation. I live in Overland Park, Kansas.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like to do long distance runs.
+This year(2017) I ran a marathon.
+Basketball is my favorite sport.
+I read books, my favorite book of all time is Jonathan Livingston Seagull.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nimmagadda.karthik@gmail.com](mailto:nimmagadda.karthik@gmail.com)
