@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reduce method parameters!
+title: Reduce method parameters
 ---
 Reduce method takes two parameters. 
 1. Callback Function: Function to apply on each element of the array.
@@ -21,6 +21,7 @@ var fruitsNoApple = fruits.reduce(
 );
 alert("Fruits as string ->" + fruitsNoApple);
 ```
+[jsfiddle](https://jsfiddle.net/karthik1239/ycm76t0r/8/)
 
 Example code to show when provided an initial value, accumulator value is the value provided.
 
@@ -39,3 +40,6 @@ var fruitsWithApple = fruits.reduce(
 );
 alert("Fruits as string ->" + fruitsWithApple);
 ```
+[jsfiddle](https://jsfiddle.net/karthik1239/61p0nyv0/2/)
+
+In my next post, I will provide callback functions parameters description.[Documentation for reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce).
