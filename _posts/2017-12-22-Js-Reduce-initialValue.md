@@ -42,4 +42,6 @@ alert("Fruits as string ->" + fruitsWithApple);
 ```
 [jsfiddle](https://jsfiddle.net/karthik1239/61p0nyv0/2/)
 
-In my next post, I will provide callback functions parameters description.[Documentation for reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce).
+In my next post, I will provide callback functions parameters description.
+Reference:
+[Documentation for reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce).
