@@ -4,8 +4,8 @@ title: Reduce method complex example.
 ---
 The purpose of this blog post is to give a sophisticated example of how to use reduce method.
 
-Example explanation:
 Let's say You have a bookshop and you have customers that visit your library. For each customer, you have an order history of what books they have bought. The problem is to combine all the books from each customer into an array and create an unordered list.
+
 I am using two reduces here, one will concatenate the arrays into a new array. The other will reduce the array to an unordered list.
 
 Code:
