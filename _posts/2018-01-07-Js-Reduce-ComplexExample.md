@@ -8,7 +8,6 @@ Let's say You have a bookshop and you have customers that visit your library. Fo
 
 I am using two reduces here, one will concatenate the arrays into a new array. The other will reduce the array to an unordered list.
 
-Code:
 ```javascript
    var customers = [
    {
